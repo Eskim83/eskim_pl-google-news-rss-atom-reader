@@ -14,6 +14,7 @@ Skrypt wyświetla informacje z kanału Google News
 - obsługa RSS 2.0
 - obsługa Atom 1.0
 
+UWAGA!!! Dane nie są w żaden sposób sanityzowane, weryfikowane przez co może być narażony np. na ataki typu XSS. Skrypt stanowi przykład do artykułu.
 
 -- ODPOWIEDZIALNOŚĆ --
 
